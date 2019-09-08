@@ -1,5 +1,5 @@
 # Omegle-Python-Chat
-This just a not just a fun program and if you know then you can do a lot with it ;)
+This is just not a fun program and if you know then you can do a lot with it ;)
 
 It does not have a ReCaptcha solving API so you should visit omegle.com and solve google re-captcha
 This script is working right now and will not get any update.
